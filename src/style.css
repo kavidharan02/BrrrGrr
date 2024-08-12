@@ -220,6 +220,10 @@ body {
     font-style: normal;
 }
 
+.col a {
+    color: rgb(0, 0, 0);
+}
+
 .items {
     text-align: left;
     margin-left: 10px;
